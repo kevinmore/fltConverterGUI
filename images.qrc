@@ -1,0 +1,26 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>Resources/havok.png</file>
+    <file>Resources/logo.png</file>
+    <file>Resources/rsysBanner.png</file>
+    <file>Resources/campus.png</file>
+	<file>Resources/checkbox.png</file>
+    <file alias="up_arrow.png">Resources/up_arrow.png</file>
+	<file alias="down_arrow.png">Resources/down_arrow.png</file>
+	<file>Resources/handle.png</file>
+	<file>Resources/plus.png</file>
+	<file>Resources/folder.png</file>
+	<file>Resources/minus.png</file>
+	<file>Resources/preferences.png</file>
+	<file>Resources/pencilangled.png</file>
+	<file>Resources/page.png</file>
+	<file>Resources/trash.png</file>
+	<file>Resources/arrowdown.png</file>
+	<file>Resources/arrowleft.png</file>
+	<file>Resources/arrowright.png</file>
+	<file>Resources/arrowup.png</file>
+	<file>Resources/mailopened.png</file>
+	<file>Resources/mailclosed.png</file>
+	<file>Resources/copy.png</file>
+</qresource>
+</RCC>
